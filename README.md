@@ -8,5 +8,11 @@ A map showing real-time weather radar data and alerts for the United States. The
 * **Severe alerts**: Red  
 * **Extreme alerts**: Pink  
 
-Radar and alert data courtesy of the National Weather Service.  
+Clicking on an alert area gives the user:  
+* A description of the alert
+* The severirty of the alert
+* The certainty of the alert
+* The urgency of the alert  
+
+Weather radar and alert data courtesy of the National Weather Service.  
 The map can be accessed at <https://ldenso34046.github.io/weather/>.
