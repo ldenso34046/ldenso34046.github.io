@@ -13,10 +13,10 @@ $.getJSON(weatherAlertsUrl, function(data) {
   L.geoJSON(data, {
   style: function(feature){
   var alertColor = 'white';
-  if (feature.properties.severity === 'Minor') alertColor = 'lime';
-  if (feature.properties.severity === 'Moderate') alertColor = 'DeepSkyBlue';
+  if (feature.properties.severity === 'Minor') alertColor = 'DarkGreen';
+  if (feature.properties.severity === 'Moderate') alertColor = 'Navy';
   if (feature.properties.severity === 'Severe') alertColor = 'orange';
-  if (feature.properties.severity === 'Extreme') alertColor = 'red';
+  if (feature.properties.severity === 'Extreme') alertColor = 'DeepPink';
   return { color: alertColor };
 },
 
