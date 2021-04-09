@@ -4,7 +4,7 @@ Lucas Denson's maps for GEOG 4046 at LSU.
 ## US National Weather Map
 A map showing real-time weather radar data and weather alerts for the United States.  
 
-The alert areas are color coded:  
+The alert areas are color coded:
 * **Minor alerts**: Blue  
 * **Moderate alerts**: Orange  
 * **Severe alerts**: Red  
