@@ -22,6 +22,7 @@ $.getJSON(weatherAlertsUrl, function(data) {
 
   onEachFeature: function(feature, layer) {
   layer.bindPopup(feature.properties.headline);
+  layer.bindPopup(feature.properties.severity);
 }
 
 }).addTo(map);
