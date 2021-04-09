@@ -12,7 +12,7 @@ var weatherAlertsUrl = 'https://api.weather.gov/alerts/active?region_type=land';
 $.getJSON(weatherAlertsUrl, function(data) {
   L.geoJSON(data, {
   style: function(feature){
-  var alertColor = 'orange';
+  var alertColor = 'white';
   if (feature.properties.severity === 'Minor') alertColor = 'yellow';
   if (feature.properties.severity === 'Moderate') alertColor = 'orange';
   if (feature.properties.severity === 'Severe') alertColor = 'red';
