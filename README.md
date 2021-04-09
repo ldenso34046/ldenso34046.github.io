@@ -10,7 +10,7 @@ A map showing real-time weather radar data and weather alerts for the United Sta
 
 Clicking on an alert area gives the user:  
 * A description of the alert
-* Severirty of the alert
+* Severity of the alert
 * Certainty of the alert
 * Urgency of the alert
 
