@@ -21,7 +21,7 @@ $.getJSON(weatherAlertsUrl, function(data) {
 },
 
   onEachFeature: function(feature, layer) {
-  layer.bindPopup(feature.properties.headline'.'+'Severity: 'feature.properties.severity);
+  layer.bindPopup(feature.properties.headline);
 }
 
 }).addTo(map);
