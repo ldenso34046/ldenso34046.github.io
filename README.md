@@ -24,4 +24,5 @@ A map showing the locations and names of various natural sites and attractions i
 
 Basemap courtesy of ESRI and National Geographic.  
 All images belong to their respective owners.  
+
 The map can be accessed at <https://ldenso34046.github.io/utahphotomap/>.
