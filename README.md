@@ -20,7 +20,7 @@ Weather radar and alert data courtesy of the National Weather Service.
 The map can be accessed at <https://ldenso34046.github.io/weather/>.
 
 ## Utah Natural Attractions Photomap Tour
-A map showing the locations and names of various natural sites and attractions in Utah. Clicking one of the markers brings up a pop-up window with a description of each site, along with an image.
+A map showing the locations and names of various natural sites and attractions in Utah. Clicking on one of the markers brings up a pop-up window with a description of each site, along with an image.
 
 Basemap courtesy of ESRI and National Geographic. All images belong to their respective owners. 
 The map can be accessed at <https://ldenso34046.github.io/utahphotomap/>.
