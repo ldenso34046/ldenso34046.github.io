@@ -20,4 +20,6 @@ Weather radar and alert data courtesy of the National Weather Service.
 The map can be accessed at <https://ldenso34046.github.io/weather/>.
 
 ## Utah Natural Attractions Photo Map Tour
-A photo map showing the location, descriptions, and photos of various natural sites and attractions in Utah.
+A photo map showing the location, descriptions, and photos of various natural sites and attractions in Utah. Clicking the markers brings up a pop-up window with information about each site.
+
+The map can be accessed at <https://ldenso34046.github.io/utahphotomap/>.
