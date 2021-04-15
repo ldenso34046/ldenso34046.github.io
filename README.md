@@ -18,3 +18,6 @@ Clicking on an alert area gives the user:
 
 Weather radar and alert data courtesy of the National Weather Service.  
 The map can be accessed at <https://ldenso34046.github.io/weather/>.
+
+## Utah Natural Attractions Photo Map
+A photomap showing the location, descriptions, and photos of various natural sites and attractions in Utah.
